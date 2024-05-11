@@ -39,9 +39,7 @@ If you think it’s good, you can save it!
 <br>
 
 <p align="center">
-  <img alt="Sloan, the sloth mascot" width="250px" src="https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/31047/af153cd6-9994-4a68-83f4-8ddf3e13f0bf.jpg">
+  <img alt="owob" width="250px" src="https://avatars.githubusercontent.com/u/64715639?v=4">
   <br>
-  <strong>Happy Coding</strong> ❤️
+  <strong>GET GOOD GET CHEAT CFG LIST</strong> ❤️
 </p>
-
-[⬆ Back to Top](#table-of-contents)
