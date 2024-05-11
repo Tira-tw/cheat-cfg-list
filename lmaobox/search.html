@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="menu.css">
+<nav class="menu" id="nav">
+	<span class="nav-item active">
+		<span class="icon">
+			<i data-feather="home"></i>
+		</span>
+		<a href="index.html">Home</a>
+	</span>
+	<span class="nav-item">
+		<span class="icon">
+			<i data-feather="search"></i>
+		</span>
+		<a href="search.html">Search user</a>
+	</span>
+	<span class="nav-item">
+		<span class="icon">
+			<span class="subicon">999</span>
+			<i data-feather="bell"></i>
+		</span>
+		<a href="profile/sala/index.html">owner</a>
+	
+	</span>
+</nav>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" 
+          content="width=device-width, initial-scale=1.0">
+    <title>Search user</title>
+    <link rel="stylesheet" 
+          type="text/css" href="./search.css">
+</head>
+
+<body>
+    <div class="container">
+        <input id="searchbar" 
+               onkeyup="search_animal()" 
+               type="text" name="search" 
+               placeholder="Search now">
+
+        <ul id='list'>
+            <a href="profile/sala/index.html"> <li class="animals">살라</li>
+        </ul>
+    </div>
+
+    <script src="./search.js"></script>
+</body>
+
+</html>
+
