@@ -35,6 +35,10 @@ Sure!<br>We encourage others to fork.<br>you can change it at will!
 
 If you think it’s good, you can save it!
 
+## contributor
+
+Want to improve your profile and get contributors?<br>[please read](https://github.com/Tira-tw/cheat-cfg-list/tree/main/wiki)
+
 
 <br>
 
