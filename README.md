@@ -37,7 +37,7 @@ If you think it’s good, you can save it!
 
 ## contributor
 
-Want to improve your profile and get contributors?<br>[please read](wiki/contributor)
+Want to improve your profile and get contributors?<br>[please read](wiki/contributor.md)
 
 
 <br>
