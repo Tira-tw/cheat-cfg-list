@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Sloan, the sloth mascot" width="250px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64715639/329815719-ae82c724-f9e3-402e-8b46-f406a3da8967.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240511%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240511T222826Z&X-Amz-Expires=300&X-Amz-Signature=2e44cce62dfb2e0379322b3d1ca36b327fa54aacd7980b6a9086fb530e4e04f2&X-Amz-SignedHeaders=host&actor_id=64715639&key_id=0&repo_id=799209748">
+  <img alt="Sloan, the sloth mascot" width="250px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64715639/329831838-3e9b70b7-9d5f-4762-8eae-f5b4b8b147cd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240512%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240512T070423Z&X-Amz-Expires=300&X-Amz-Signature=97927d749327d63036eaab04d47feac7644d85a620de99422c09e6a028a6d483&X-Amz-SignedHeaders=host&actor_id=64715639&key_id=0&repo_id=799209748">
   <br>
   <h1>Cheat cfg list 📙</h1>
   <strong>A simple Cheat config list</strong>
